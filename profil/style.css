@@ -1,0 +1,181 @@
+body {
+	background-color: rgb(249, 249, 249);
+	color:#838383;
+	font-family:Montserrat; 
+	font-weight: 200;
+
+}
+
+h1 {
+	color: #fccbcb;
+	letter-spacing: 10px;
+	font-size: 40px;
+	font-family: Montserrat;
+
+}
+
+h2 {
+	color: #f7dad9;
+	
+
+
+}
+
+
+a {
+	text-decoration: none;
+	color: #6B72E1
+}
+a:hover {
+	color: black
+}
+
+ /* Custom design with class*/
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+
+
+@media (max-width: 500px) {
+	.container {
+		width: 400px; 
+	}	
+}
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(10,10,10,10,3);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+	list-style: none;
+	padding-left: 0px;
+}
+.card-white-two {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(10,10,10,10,3);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+	list-style: none;
+	padding-left: 0px;
+}
+
+.card-white-one {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(10,10,10,10,3);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+	list-style: none;
+	padding-left: 0px;
+}
+
+.card-white-three {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(10,10,10,10,3);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+	list-style: none;
+	padding-left: 0px;
+
+}
+
+.card-white-four {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(10,10,10,10,3);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+	list-style: none;
+	padding-left: 0px;
+}
+
+.card-white-four img {
+	margin: 30px
+}
+
+.card-white-three li {
+	display: inline;
+	margin: 30px;
+	font-weight: bold;
+
+}	
+
+.card-white i {
+	size: 50px;
+}	
+
+.img-circle {
+	border-radius: 15%
+}
+
+.btn-grey {
+	background-color:#f7dad9 ; 
+	padding: 15px 10px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Poppins', sans-serif;
+	margin: 7px;
+	justify-content: space-between;
+	margin: 35px;
+
+}
+
+.btn-grey {
+	background-color: :black;
+	color: white;
+	padding; 15px 10px;
+	border-radius: 4px;
+	margin-bottom: 40px;
+}
+
+.btn-grey: hover {
+	background-color:black;
+	color: white;
+	padding; 15px 20px;
+	border-radius: 4px;
+	margin-bottom: 40px;
+
+}
+
+.align-items {
+	list-style: none;
+	padding-left: 0px;
+	align-items: center;
+	margin: 7px;
+    flex-basis: 250px;
+    flex-grow: 1;
+    justify-content: space-between;
+
+
+	
+}
+
+.align-items li {
+	display: inline; 
+	padding: 10px
+	justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
